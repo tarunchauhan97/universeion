@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825707214749",
+    "project_id": "universeion",
+    "storage_bucket": "universeion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825707214749:android:bb04fb236505cc8670a174",
+        "android_client_info": {
+          "package_name": "com.universeion.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4tF6zkci8PW4M8H05kxF3HPsVdnh8nQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
